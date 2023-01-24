@@ -11,7 +11,7 @@ public class program {
         System.out.println(Arrays.toString(array));
         Boolean sorted_arr = false;
         Integer temp;
-        FileWriter writer = new FileWriter("Task_4/log.txt");
+        FileWriter writer = new FileWriter("Task_2_1/log.txt");
         while(!sorted_arr) {
             sorted_arr = true;
             for (int i = 0; i < array.length-1; i++) {
