@@ -7,7 +7,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class main {
+public class program {
     public static void main(String[] args) throws IOException {
 
         
