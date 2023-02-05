@@ -108,6 +108,7 @@ public class program {
 
 
         }
+        System.out.printf("%f %s %f = %f",number1, calc_action, number2, result);
     }
 
     public static void printRez(Float number1, String calc_action, Float number2, Float result) throws IOException {
